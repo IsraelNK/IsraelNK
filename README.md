@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IsraelNK. 
+- 👋 Hi, I’m **@IsraelNK**. 
 - I’m interested in game development and website creation. I’m currently learning HTML, CSS and Javascript, but I pretend to learn C# and Python in the future.
  
 <!---
